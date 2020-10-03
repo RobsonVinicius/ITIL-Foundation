@@ -1,4 +1,4 @@
-﻿# ITIL Fundation
+﻿#  ITIL Foundation
 
 Repositório criado para estudos em ITIL Fundation 
 
@@ -44,7 +44,7 @@ Repositório criado para estudos em ITIL Fundation
 6. Operações de Serviços<br>
 6.1 Gerenciamento de eventos<br>
 7. Melhoria de Serviços<br>
-7.1 Abordaegm para a melhoria contínua<br>
+7.1 Abordagem para a melhoria contínua<br>
 7.2 Ciclo de Deming<br>
 7.3 Melhoria em 7 passos<br>
 
