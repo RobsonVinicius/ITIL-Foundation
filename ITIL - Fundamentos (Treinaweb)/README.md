@@ -16,8 +16,8 @@ Linkedin: https://br.linkedin.com/in/felipeecoliveira
 [1.1 Qual é o papel da TI no negócio?](https://github.com/RobsonVinicius/ITIL-Fundamentos/blob/master/ITIL%20-%20Fundamentos%20(Treinaweb)/1.Gestao-de-servicos-de-TI.md#11-qual-%C3%A9-o-papel-da-ti-no-neg%C3%B3cio)<br>
 [1.2 Cenário de gestão empresarial](https://github.com/RobsonVinicius/ITIL-Foundation/blob/master/ITIL%20-%20Fundamentos%20(Treinaweb)/1.Gestao-de-servicos-de-TI.md#12-cen%C3%A1rio-de-gest%C3%A3o-empresarial)<br>
 [1.3 Problemas na gestao atual](https://github.com/RobsonVinicius/ITIL-Foundation/blob/master/ITIL%20-%20Fundamentos%20(Treinaweb)/1.Gestao-de-servicos-de-TI.md#13-problemas-na-gest%C3%A3o-atual)<br>
-1.4 Gerenciamento de serviços de TI<br>
-1.5 Frameworks do mercado<br>
+[1.4 Gerenciamento de serviços de TI](https://github.com/RobsonVinicius/ITIL-Foundation/blob/master/ITIL%20-%20Fundamentos%20(Treinaweb)/1.Gestao-de-servicos-de-TI.md#14-gerenciamento-de-servi%C3%A7os-de-ti)<br>
+[1.5 Frameworks do mercado](https://github.com/RobsonVinicius/ITIL-Foundation/blob/master/ITIL%20-%20Fundamentos%20(Treinaweb)/1.Gestao-de-servicos-de-TI.md#15-frameworks-do-mercado)<br>
 1.6 Visão geral da ITIL<br><br>
 2. Estratégias de Serviços (Introdução)<br>
 2.1 Processos<br>
