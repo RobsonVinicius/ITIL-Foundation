@@ -12,7 +12,7 @@ Linkedin: https://br.linkedin.com/in/felipeecoliveira
 
 ### Índice do Curso:
 
-- [1. Gestão de Serviços de TI](https://github.com/RobsonVinicius/ITIL-Fundamentos/blob/master/ITIL%20-%20Fundamentos%20(Treinaweb)/1.Gestao-de-servicos-de-TI.md#1-gest%C3%A3o-de-servi%C3%A7os-de-ti)<br>
+[1. Gestão de Serviços de TI](https://github.com/RobsonVinicius/ITIL-Fundamentos/blob/master/ITIL%20-%20Fundamentos%20(Treinaweb)/1.Gestao-de-servicos-de-TI.md#1-gest%C3%A3o-de-servi%C3%A7os-de-ti)<br>
 1.1. Qual é o papel da TI no negócio?<br>
 1.2 Cenário de gestão empresarial<br>
 1.3 Problemas na gestao atual<br>
