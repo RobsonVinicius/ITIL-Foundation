@@ -3,7 +3,9 @@
 ## TreinaWeb Tecnologia LTDA
 
 ### Curso de ITIL Fundamentos 
-O curso teve uma carga horária de 18 horas, dividido em três partes de 6 horas. Iniciado <br> no dia 30/03/2020 e concluído no dia 14/04/2020
+O curso teve uma carga horária de 18 horas, dividido em três partes de 6 horas.<br>
+
+ Iniciado: <br> 30/03/2020<br><br> concluído<br>dia 14/04/2020
 
 ### Instrutor: Felipe Oliveira
 Linkedin: https://br.linkedin.com/in/felipeecoliveira
