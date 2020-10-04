@@ -10,7 +10,7 @@ O curso teve uma carga horária de 18 horas, dividido em três partes de 6 horas
 ### Instrutor: Felipe Oliveira
 Linkedin: https://br.linkedin.com/in/felipeecoliveira
 
-### Índice do Curso:
+## Índice do Curso:
 
 [1 Gestão de Serviços de TI](https://github.com/RobsonVinicius/ITIL-Fundamentos/blob/master/ITIL%20-%20Fundamentos%20(Treinaweb)/1.Gestao-de-servicos-de-TI.md#1-gest%C3%A3o-de-servi%C3%A7os-de-ti)<br>
 [1.1 Qual é o papel da TI no negócio?](https://github.com/RobsonVinicius/ITIL-Fundamentos/blob/master/ITIL%20-%20Fundamentos%20(Treinaweb)/1.Gestao-de-servicos-de-TI.md#11-qual-%C3%A9-o-papel-da-ti-no-neg%C3%B3cio)<br>
@@ -18,11 +18,12 @@ Linkedin: https://br.linkedin.com/in/felipeecoliveira
 [1.3 Problemas na gestao atual](https://github.com/RobsonVinicius/ITIL-Foundation/blob/master/ITIL%20-%20Fundamentos%20(Treinaweb)/1.Gestao-de-servicos-de-TI.md#13-problemas-na-gest%C3%A3o-atual)<br>
 [1.4 Gerenciamento de serviços de TI](https://github.com/RobsonVinicius/ITIL-Foundation/blob/master/ITIL%20-%20Fundamentos%20(Treinaweb)/1.Gestao-de-servicos-de-TI.md#14-gerenciamento-de-servi%C3%A7os-de-ti)<br>
 [1.5 Frameworks do mercado](https://github.com/RobsonVinicius/ITIL-Foundation/blob/master/ITIL%20-%20Fundamentos%20(Treinaweb)/1.Gestao-de-servicos-de-TI.md#15-frameworks-do-mercado)<br>
-[1.6 Visão geral da ITIL](https://github.com/RobsonVinicius/ITIL-Foundation/blob/master/ITIL%20-%20Fundamentos%20(Treinaweb)/1.Gestao-de-servicos-de-TI.md#16-vis%C3%A3o-geral-da-itil)<br><br>
-2. Estratégias de Serviços (Introdução)<br>
-2.1 Processos<br>
-2.2 Estretégias de Serviços<br>
-2.3 Ativos de Serviços<br><br>
+[1.6 Visão geral da ITIL](https://github.com/RobsonVinicius/ITIL-Foundation/blob/master/ITIL%20-%20Fundamentos%20(Treinaweb)/1.Gestao-de-servicos-de-TI.md#16-vis%C3%A3o-geral-da-itil)<br>
+##
+[2 Estratégias de Serviços (Introdução)](https://github.com/RobsonVinicius/ITIL-Foundation/blob/master/ITIL%20-%20Fundamentos%20(Treinaweb)/2.Estrategias-de-servicos.md#2-estrat%C3%A9gia-de-servi%C3%A7os)<br>
+[2.1 Processos](https://github.com/RobsonVinicius/ITIL-Foundation/blob/master/ITIL%20-%20Fundamentos%20(Treinaweb)/2.Estrategias-de-servicos.md#21-estrat%C3%A9gia-de-servi%C3%A7os-processos)<br>
+[2.2 Estretégias de Serviços: Estratégias](https://github.com/RobsonVinicius/ITIL-Foundation/blob/master/ITIL%20-%20Fundamentos%20(Treinaweb)/2.Estrategias-de-servicos.md#22-estrat%C3%A9gia-de-servi%C3%A7os-estrat%C3%A9gia)<br>
+[2.3 Ativos de Serviço](https://github.com/RobsonVinicius/ITIL-Foundation/blob/master/ITIL%20-%20Fundamentos%20(Treinaweb)/2.Estrategias-de-servicos.md#23-estrat%C3%A9gia-de-servi%C3%A7os--ativos-de-servi%C3%A7os)<br><br>
 3. Gerenciamento da estratégia os serviços em TI<br>
 3.1 4Ps da estratégia<br>
 3.2 Gerenciamento da estretégia para os serviços de TI (parte II)<br>
