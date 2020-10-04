@@ -1,0 +1,55 @@
+## 2. Estratégia de serviços
+
++ Gerenciamento da Estratégia para serviços de TI
++ Gerenciamento de demanda 
++ Gerenciamento financeiro
++ Gerenciamento do portfólio de serviços
++ Gerenciamento do relacionamento com o negócio
+
+
+## 2.1 Estratégia de Serviços: Processos
+
+Há várias formas de descrever um processo. Em uma das definições encontradas, um processo é "um conjunto de atividades elaborado para alcançar um determinado objetivo"
+
+Todo processo possui uma ou mais entradas, gerando saídas (resultados) definidas. Pode incluir quaisquer papeis, responsabilidades, ferramentas ou práticas.
+
+Todo processo tem como característica: 
++ Mensurável (Está funcionando de maneira correta, eficaz)
++ A resposta para um evento / gatilho (Mudanças)
++ Possui uma entrega para um cliente ou stakeholder 
++ Emite resultados específicos 
++ Atividade contínua (sem fim)
+
+
+## 2.2 Estratégia de Serviços: Estratégia
+
+O uso da estratégia, no ramo de tecnologia, tem a perspectiva de que, se os serviços são meios de oferecer valor para o cliente, é imprescindível que a TI planeje seus recursos para garantir a entrega dos serviços.
+
+Assim, a estratégia precisa ajudar a responder:
++ Que serviços serão oferecidos e para quem?
++ Quais os valores dos serviços perceptíveis pelo cliente?
++ Como a área de TI se diferencia para nossos clientes?
++ Como criamos valor para nossos clientes?
++ Como planejaremos nossos investimentos estratégicos?
+
+
+## 2.3 Estratégia de Serviços | Ativos de Serviços
+
+Serviços são classificados como "ativos intangíveis", pois apesar de não serem "físicos", geram benefícios econômicos para a empresa.
+
+O ITIL utilizou esta definição para determinar que a estratégia deve gerar ativos de serviços para os clientes, ou seja, devem gerar valor.
+
+Os ativos de serviço possuem duas características: 
+* **Utilidade:** percebida pelo cliente através dos resultados dos serviços, os quais devem atender ao seu propósito.
+* **Garantia:** relacionada a como os clientes recebem os serviços em termos de capacidade, disponibilidade, continuidade e adequação ao uso.
+
+Ativos de Serviço podem ser:
+
+<div align="center">
+
+![Ativos de Serviço](imagens/estudo/ativos-servicos.jpg)
+
+</div>
+
+
+Habilidades e recursos devem gerar utilidade e garantia para obter **valor**
