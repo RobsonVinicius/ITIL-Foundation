@@ -6,7 +6,7 @@
 </div>
 
 
-### 📚 Livros (Indicações): 
+### 📚  Livros (Indicações): 
  
 + Fundamentos do Gerenciamento de Serviço de TI - Marcos André dos Santos Freitas, 2013
 + ITIL - Guia de Referência - Jam Bom, 2012
