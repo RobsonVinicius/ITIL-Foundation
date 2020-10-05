@@ -50,7 +50,6 @@ Linkedin: https://br.linkedin.com/in/felipeecoliveira
 [5.7 Gerenciamento do Conhecimento](https://github.com/RobsonVinicius/ITIL-Foundation/blob/master/ITIL%20-%20Fundamentos%20(Treinaweb)/5.Transicao-de-servicos.md#57-gerenciamento-do-conhecimento)<br><br>
 [6. Operações de Serviços](https://github.com/RobsonVinicius/ITIL-Foundation/blob/master/ITIL%20-%20Fundamentos%20(Treinaweb)/6.Operacoes-de-servico.md#6-opera%C3%A7%C3%B5es-de-servi%C3%A7o)<br>
 [6.1 Gerenciamento de eventos](https://github.com/RobsonVinicius/ITIL-Foundation/blob/master/ITIL%20-%20Fundamentos%20(Treinaweb)/6.Operacoes-de-servico.md#61-gerenciamento-de-eventos)<br><br>
-7. Melhoria de Serviços<br>
-7.1 Abordagem para a melhoria contínua<br>
-7.2 Ciclo de Deming<br>
-7.3 Melhoria em 7 passos<br>
+[7. Melhoria de Serviços](https://github.com/RobsonVinicius/ITIL-Foundation/blob/master/ITIL%20-%20Fundamentos%20(Treinaweb)/7.Melhoria-de-Servicos.md#7-melhoria-de-servi%C3%A7os)<br>
+[7.1 Abordagem para a melhoria contínua](https://github.com/RobsonVinicius/ITIL-Foundation/blob/master/ITIL%20-%20Fundamentos%20(Treinaweb)/7.Melhoria-de-Servicos.md#71-abordagem-para-a-melhoria-cont%C3%ADnua)<br>
+[7.3 Melhoria em 7 passos](https://github.com/RobsonVinicius/ITIL-Foundation/blob/master/ITIL%20-%20Fundamentos%20(Treinaweb)/7.Melhoria-de-Servicos.md#73-melhoria-em-7-passos)<br>
