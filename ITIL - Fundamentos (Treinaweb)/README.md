@@ -44,10 +44,10 @@ Linkedin: https://br.linkedin.com/in/felipeecoliveira
 [5.1 Planejamento e suporte à Transição](https://github.com/RobsonVinicius/ITIL-Foundation/blob/master/ITIL%20-%20Fundamentos%20(Treinaweb)/5.Transicao-de-servicos.md#51-planejamento-e-suporte-%C3%A0-transi%C3%A7%C3%A3o)<br>
 [5.2 Gerenciamento de Mudanças](https://github.com/RobsonVinicius/ITIL-Foundation/blob/master/ITIL%20-%20Fundamentos%20(Treinaweb)/5.Transicao-de-servicos.md#52-gerenciamento-de-mudan%C3%A7as)<br>
 [5.3 Gerenciamento de configuração e ativos de serviço](https://github.com/RobsonVinicius/ITIL-Foundation/blob/master/ITIL%20-%20Fundamentos%20(Treinaweb)/5.Transicao-de-servicos.md#53-gerenciamento-de-configura%C3%A7%C3%A3o-e-ativos-de-servi%C3%A7o)<br>
-5.4 Gerenciamento de liberação e implantação<br>
-5.5 Teste e validação do serviço<br>
-5.6 Avaliação da Mudança<br>
-5.7 Gerenciamento do Conhecimento<br><br>
+[5.4 Gerenciamento de liberação e implantação](https://github.com/RobsonVinicius/ITIL-Foundation/blob/master/ITIL%20-%20Fundamentos%20(Treinaweb)/5.Transicao-de-servicos.md#54-gerenciamento-de-libera%C3%A7%C3%A3o-e-implanta%C3%A7%C3%A3o)<br>
+[5.5 Teste e validação do serviço](https://github.com/RobsonVinicius/ITIL-Foundation/blob/master/ITIL%20-%20Fundamentos%20(Treinaweb)/5.Transicao-de-servicos.md#55-teste-e-valida%C3%A7%C3%A3o-do-servi%C3%A7o)<br>
+[5.6 Avaliação da Mudança](https://github.com/RobsonVinicius/ITIL-Foundation/blob/master/ITIL%20-%20Fundamentos%20(Treinaweb)/5.Transicao-de-servicos.md#56-avalia%C3%A7%C3%A3o-da-mudan%C3%A7a)<br>
+[5.7 Gerenciamento do Conhecimento](https://github.com/RobsonVinicius/ITIL-Foundation/blob/master/ITIL%20-%20Fundamentos%20(Treinaweb)/5.Transicao-de-servicos.md#57-gerenciamento-do-conhecimento)<br>
 6. Operações de Serviços<br>
 6.1 Gerenciamento de eventos<br><br>
 7. Melhoria de Serviços<br>
