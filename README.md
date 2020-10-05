@@ -17,4 +17,4 @@ Curso de ITIL - Fundamentos (TreinaWeb):
 
 + Acesse a pasta: 
   + ITIL - Fundamentos (Treinaweb) 
-    + Clique nos links de cada tópico no README.md da pasta para acessar a documentação pertinente organizada por capítulos
+    + Clique nos links de cada tópico no README.md da pasta para acessar<br> a documentação pertinente organizada por capítulos
