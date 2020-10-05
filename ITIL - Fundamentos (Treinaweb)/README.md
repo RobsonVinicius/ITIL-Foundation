@@ -24,13 +24,13 @@ Linkedin: https://br.linkedin.com/in/felipeecoliveira
 [2.1 Processos](https://github.com/RobsonVinicius/ITIL-Foundation/blob/master/ITIL%20-%20Fundamentos%20(Treinaweb)/2.Estrategias-de-servicos.md#21-estrat%C3%A9gia-de-servi%C3%A7os-processos)<br>
 [2.2 Estretégias de Serviços: Estratégias](https://github.com/RobsonVinicius/ITIL-Foundation/blob/master/ITIL%20-%20Fundamentos%20(Treinaweb)/2.Estrategias-de-servicos.md#22-estrat%C3%A9gia-de-servi%C3%A7os-estrat%C3%A9gia)<br>
 [2.3 Ativos de Serviço](https://github.com/RobsonVinicius/ITIL-Foundation/blob/master/ITIL%20-%20Fundamentos%20(Treinaweb)/2.Estrategias-de-servicos.md#23-estrat%C3%A9gia-de-servi%C3%A7os--ativos-de-servi%C3%A7os)<br><br>
-3. Gerenciamento da estratégia os serviços em TI<br>
-3.1 4Ps da estratégia<br>
-3.2 Gerenciamento da estretégia para os serviços de TI (parte II)<br>
-3.3 Gerenciamento de portfólio de serviços<br>
-3.4 Gerenciamento financeiro para os serviços de TI<br>
-3.5 Gerenciamento de demanda<br>
-3.6 Gerenciamento do relacionamento do negócio<br><br>
+[3. Gerenciamento da estratégia os serviços em TI](https://github.com/RobsonVinicius/ITIL-Foundation/blob/master/ITIL%20-%20Fundamentos%20(Treinaweb)/3.Gerenciamento-da-estrategia-para-os-servicos-de-ti.md#3-gerenciamento-da-estrat%C3%A9gia-para-os-servi%C3%A7os-de-ti)<br>
+[3.1 4Ps da estratégia](https://github.com/RobsonVinicius/ITIL-Foundation/blob/master/ITIL%20-%20Fundamentos%20(Treinaweb)/3.Gerenciamento-da-estrategia-para-os-servicos-de-ti.md#31--4-ps-da-estrat%C3%A9gia)<br>
+[3.2 Gerenciamento da estretégia para os serviços de TI (parte II)](https://github.com/RobsonVinicius/ITIL-Foundation/blob/master/ITIL%20-%20Fundamentos%20(Treinaweb)/3.Gerenciamento-da-estrategia-para-os-servicos-de-ti.md#32-gerenciamento-da-estrat%C3%A9gia-para-os-servi%C3%A7os-de-ti-parte-ii)<br>
+[3.3 Gerenciamento de portfólio de serviços)](https://github.com/RobsonVinicius/ITIL-Foundation/blob/master/ITIL%20-%20Fundamentos%20(Treinaweb)/3.Gerenciamento-da-estrategia-para-os-servicos-de-ti.md#33-gerenciamento-do-portf%C3%B3lio-de-servi%C3%A7os)<br>
+[3.4 Gerenciamento financeiro para os serviços de TI)](https://github.com/RobsonVinicius/ITIL-Foundation/blob/master/ITIL%20-%20Fundamentos%20(Treinaweb)/3.Gerenciamento-da-estrategia-para-os-servicos-de-ti.md#34-gerenciamento-financeiro-para-os-servi%C3%A7os-de-ti)<br>
+[3.5 Gerenciamento de demanda](https://github.com/RobsonVinicius/ITIL-Foundation/blob/master/ITIL%20-%20Fundamentos%20(Treinaweb)/3.Gerenciamento-da-estrategia-para-os-servicos-de-ti.md#35-gerenciamento-da-demanda)<br>
+[3.6 Gerenciamento do relacionamento do negócio](https://github.com/RobsonVinicius/ITIL-Foundation/blob/master/ITIL%20-%20Fundamentos%20(Treinaweb)/3.Gerenciamento-da-estrategia-para-os-servicos-de-ti.md#36-gerenciamento-do-relacionamento-com-o-neg%C3%B3cio)<br><br>
 4. Desenho de Serviços<br>
 4.1 Coordenação de Desenho<br>
 4.2 Gerenciamento do Catálogo de Serviço<br>
