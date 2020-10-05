@@ -6,14 +6,15 @@
 </div>
 
 
-### Livros: 
+### Alguns Livros Importantes: 
 
 + Fundamentos do Gerenciamento de Serviço de TI - Marcos André dos Santos Freitas, 2013
 + ITIL - Guia de Referência - Jam Bom, 2012
 + ITIL - guia de implantação - Paulo Cougo, 2012
 
 ### Documentação de Estudo:
-Curso de ITIL - Fundamentos: 
+Curso de ITIL - Fundamentos (TreinaWeb): 
 
 + Acesse a pasta: 
   + ITIL - Fundamentos (Treinaweb) 
+    + Clique nos links de cada tópico para acessar a documentação pertinente
