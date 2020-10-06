@@ -23,6 +23,7 @@
     + Clique nos links de cada tópico no README.md da pasta para acessar<br> a documentação pertinente organizada por capítulos
 
 **🎓 Certificação ITIL Foundation V3 (Alura):**
+ 
  + Acesse a pasta: 
-  + Certificação ITIL Foundation V3 (Alura) 
-    + *Estudo e documentação em andamento
+   + Certificação ITIL Foundation V3 (Alura) 
+     + Estudo e documentação em andamento
