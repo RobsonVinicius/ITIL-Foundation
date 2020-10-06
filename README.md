@@ -17,8 +17,6 @@
 
 ### ✏️ Documentação de Estudo:
 
-<br>
-
 **Curso de ITIL - Fundamentos (TreinaWeb):**
 
 + Acesse a pasta ITIL - Fundamentos (Treinaweb)  
