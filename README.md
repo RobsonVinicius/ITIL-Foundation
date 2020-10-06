@@ -4,6 +4,7 @@
 
   ### **Repositório criado para documentação de estudos em ITIL Foundation**
 </div>
+<br><br>
 
 
 ### 📚  Livros (Indicações): 
@@ -12,8 +13,10 @@
 + ITIL - Guia de Referência - Jam Bom, 2012
 + ITIL - guia de implantação - Paulo Cougo, 2012
 
+<br>
+
 ### ✏️ Documentação de Estudo:
-Curso de ITIL - Fundamentos (TreinaWeb): 
+**Curso de ITIL - Fundamentos (TreinaWeb):**
 
 + Acesse a pasta: 
   + ITIL - Fundamentos (Treinaweb) 
