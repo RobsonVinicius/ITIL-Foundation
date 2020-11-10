@@ -21,6 +21,12 @@ Axelos: https://www.axelos.com/certifications/itil-certifications/itil-foundatio
 
 <br>
 
+### 📰 Posts
++ [ITIL: Entenda o que é e saiba quando usá-lo](https://www.alura.com.br/artigos/entenda-o-que-e-o-itil-e-saiba-por-que-voce-deve-usa-lo)
++ [Concurso público na área de TI: como se preparar?](https://www.alura.com.br/artigos/concurso-publico-na-area-de-ti-como-se-preparar)
+
+<br>
+
 ### ✏️ Documentação de Estudo:
 
 **Curso de ITIL - Fundamentos (TreinaWeb):**
