@@ -17,7 +17,7 @@
 
 ### 🌐 Sites 
 
-Axelos: https://www.axelos.com/certifications/itil-certifications/itil-foundation
++ Axelos: https://www.axelos.com/certifications/itil-certifications/itil-foundation
 
 <br>
 
