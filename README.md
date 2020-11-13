@@ -29,14 +29,12 @@ Axelos: https://www.axelos.com/certifications/itil-certifications/itil-foundatio
 
 ### ✏️ Documentação de Estudo:
 
-**Curso de ITIL - Fundamentos (TreinaWeb):**
-
-+ Acesse a pasta ITIL - Fundamentos (Treinaweb)  
++ **Curso de ITIL - Fundamentos (TreinaWeb):**
+  + Acesse a pasta ITIL - Fundamentos (Treinaweb)  
   + Clique nos links de cada tópico no README.md da pasta para acessar<br> a documentação pertinente organizada por capítulos
 
 <br>
 
-**Certificação ITIL Foundation V3 (Alura):**
- 
- + Acesse a pasta Certificação ITIL Foundation V3 (Alura) 
-   + Estudo e documentação em andamento
++ **Certificação ITIL Foundation V3 (Alura):**
+  + Acesse a pasta Certificação ITIL Foundation V3 (Alura) 
+  + Estudo e documentação em andamento
