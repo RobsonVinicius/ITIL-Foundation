@@ -11,7 +11,7 @@
  
 | Capa | Livro | Autor | Link |
 | --- | --- | --- | --- |
-| <img src="https://m.media-amazon.com/images/I/71T7j1MbWaL._SL1500_.jpg" min-width="50px" width="50px" align="center" alt="image"> | Guia Preparatório para a Certificação ITIL 4 Foundation | Melo, Oliveira, Mauser | [Veja Mais](https://amzn.to/4idrqhl) | [Veja Mais](https://amzn.to/4bimOo0)|
+| <img src="https://m.media-amazon.com/images/I/71T7j1MbWaL._SL1500_.jpg" min-width="50px" width="50px" align="center" alt="image"> | Guia Preparatório para a Certificação ITIL 4 Foundation | Melo, Oliveira, Mauser | [Veja Mais](https://amzn.to/4bimOo0) |
 + Fundamentos do Gerenciamento de Serviço de TI - Marcos André dos Santos Freitas, 2013
 + ITIL - Guia de Referência - Jam Bom, 2012
 + ITIL - guia de implantação - Paulo Cougo, 2012
